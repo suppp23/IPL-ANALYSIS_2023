@@ -11,4 +11,5 @@ Total wins by a team in a season
 
 Matches won based on the result type
 
-TOOLS and TECHNOLOGIES USED: POWERBI, MS SQL server,PostgreSQL
+TOOLS and TECHNOLOGIES USED: POWERBI, MS SQL server
+
